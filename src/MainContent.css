@@ -1,0 +1,39 @@
+.sam-two{
+    display: flex;
+}
+.card5{
+  cursor: pointer;
+    width: 300px;
+    margin-left: 190px;
+    height: 420px;
+    margin-top: 40px;
+    border:none;
+}
+
+.card6{
+width: 300px;
+    height: 420px;
+    margin-top: 40px;
+    border: none;
+    margin-left: 20px;
+}
+
+.card7{
+width: 300px;
+    height: 420px;
+    margin-top: 40px;
+    border: none;
+    margin-left: 20px;
+}
+
+.card8{
+width: 300px;
+    height: 420px;
+    margin-top: 40px;
+    border: none;
+    margin-left: 20px;
+}
+
+.im{
+    margin-left: 60px;
+}

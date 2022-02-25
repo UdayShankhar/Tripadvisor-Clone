@@ -1,0 +1,42 @@
+.footer{
+    width: 92%;
+    height: 400px;
+    background-color: rgb(43, 42, 42);
+    color: whitesmoke;
+    margin-top: 100px;
+    margin-left: 58px;
+    display: flex;
+}
+
+.about-tripadvisor{
+    margin-left: 80px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.ab{
+    margin-left: 80px;
+}
+
+.social-icons{
+    margin-top: 340px;
+    display: flex;
+    margin-left: 140px;
+}
+
+.fb{
+    margin-left: 40px;
+    color: blue;
+}
+
+.insta{
+    margin-left: 16px;
+    color: rgb(248, 62, 202);
+}
+
+.twitter{
+    margin-left: 16px;
+    color: rgb(123, 123, 243);
+}
+

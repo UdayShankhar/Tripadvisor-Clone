@@ -1,0 +1,43 @@
+.cards{
+    margin-left: 190px;
+    margin-top: 40px;
+}
+.sam{
+    display: flex;
+}
+.card1{
+    cursor: pointer;
+    width: 300px;
+    margin-left: 190px;
+    height: 420px;
+    margin-top: 40px;
+    border:none;
+}
+
+.desc{
+    margin-top: 14px;
+}
+
+.card2{
+    width: 300px;
+    height: 420px;
+    margin-top: 40px;
+    border: none;
+    margin-left: 20px;
+}
+
+.card3{
+    width: 300px;
+    height: 420px;
+    margin-top: 40px;
+    border: none;
+    margin-left: 20px;
+}
+
+.card4{
+    width: 300px;
+    height: 420px;
+    margin-top: 40px;
+    border: none;
+    margin-left: 20px;
+}
